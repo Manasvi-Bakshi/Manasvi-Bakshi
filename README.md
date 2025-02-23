@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Manasvi Bakshi</h1>
-<h3 align="center">Currently studying and learning</h3>
+<h1 align="center">Hello 👋, I'm Manasvi Bakshi</h1>
+<h3 align="center">Currently studying, learning and trying to be better</h3>
 
-- 🔭 I’m currently working on **Fake News Detection using LLM model**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on **DarkWeb Traffic Analysis**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Natural Language Processing**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
