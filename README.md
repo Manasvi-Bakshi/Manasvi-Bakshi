@@ -14,10 +14,6 @@ Computer Science Engineer • Assistant Professor • Aspiring PhD Researcher
 
 ---
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
 
 ## 💫 About Me
 
@@ -53,16 +49,7 @@ Computer Science Engineer • Assistant Professor • Aspiring PhD Researcher
 📫 **Reach me:**  
 **manasvi.bakshi@gmail.com**
 
-</td>
 
-<td width="40%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manasvi-Bakshi&theme=tokyonight"/>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -120,20 +107,7 @@ Artificial Intelligence • Machine Learning • Natural Language Processing •
 
 </div>
 
----
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-| Project | Description |
-|---------|-------------|
-| 📝 AI Answer Sheet Evaluation | Multimodal answer sheet evaluator using LLMs, SBERT, NLP, OCR, and Explainable AI |
-| 📊 IRIS Asset Tracking System | Enterprise asset management platform with React, Node.js and PostgreSQL |
-| 🌐 Network Traffic Classification | Deep Learning & Kolmogorov-Arnold Networks (KAN) on CIC datasets |
-| 🤖 Enterprise RPA Solutions | Automation solutions developed during my internship at STMicroelectronics |
-| 🕹 Gravity Snake | Physics-based Snake game built with Pygame |
-| 🍽 CraveSwitch | AI-powered healthy food recommendation system |
-
----
 
 <h2 align="center">📚 Publications</h2>
 
@@ -161,27 +135,6 @@ Artificial Intelligence • Machine Learning • Natural Language Processing •
 
 </p>
 
----
-
-<h2 align="center">📊 Contribution Graph</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manasvi-Bakshi&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manasvi-Bakshi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 <h2 align="center">🌐 Connect With Me</h2>
 
