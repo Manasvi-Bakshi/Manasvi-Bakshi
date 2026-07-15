@@ -6,56 +6,73 @@ Computer Science Engineer • Assistant Professor • Aspiring PhD Researcher
 
 <div align="center">
 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Assistant+Professor;Former+STMicroelectronics+Intern;Building+AI+%26+Software+Systems;Aspiring+PhD+Researcher" />
+</a>
+
+</div>
+
+---
+
 <table>
 <tr>
-<td width="60%">
+
+<td width="60%" valign="top">
 
 ## 💫 About Me
 
-🔭 Currently teaching **Computer Science** while continuing to build software and conduct research.
+🔭 Teaching **Computer Science** while building intelligent software systems.
 
 🎓 Master's in Computer Science Engineering.
 
-🌱 Exploring **Artificial Intelligence, Machine Learning, NLP, Computer Vision, and Software Engineering**.
-
-💡 Interested in solving practical problems through research and open-source development.
-
-🤝 Looking to collaborate on **AI, Machine Learning, Full-Stack Development, and Research Projects**.
+🚀 Former **Software Engineering Intern @ STMicroelectronics**.
 
 📚 Published research in **Springer LNNS Conference Proceedings**.
 
-🚀 Former **Software Engineering Intern @ STMicroelectronics**.
+🌱 Exploring **Artificial Intelligence, Machine Learning, NLP, Computer Vision, Explainable AI, and Software Engineering**.
 
-🎯 Long-term goal: Pursuing a fully-funded **PhD** in Artificial Intelligence.
+💡 Passionate about solving real-world problems through software engineering and research.
+
+🤝 Open to collaborations in **AI, Machine Learning, Full Stack Development, and Research Projects**.
+
+🎯 Working towards a fully-funded **PhD in Artificial Intelligence**.
 
 💬 Ask me about
 
 - Python
 - Java
 - C++
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
 - React
 - Node.js
 - PostgreSQL
+- Machine Learning
+- NLP
+- Computer Vision
+- Software Engineering
 
-📫 Reach me:
+📫 **Reach me:**  
 **manasvi.bakshi@gmail.com**
 
 </td>
 
-<td>
+<td width="40%" align="center">
 
-<img src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" width="350"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manasvi-Bakshi&theme=tokyonight"/>
 
 </td>
 
 </tr>
 </table>
 
-</div>
+---
+
+<h2 align="center">🧠 Research Interests</h2>
+
+<p align="center">
+
+Artificial Intelligence • Machine Learning • Natural Language Processing • Explainable AI • Computer Vision • Software Engineering • Intelligent Automation
+
+</p>
 
 ---
 
@@ -63,7 +80,7 @@ Computer Science Engineer • Assistant Professor • Aspiring PhD Researcher
 
 <div align="center">
 
-🧠 AI & Machine Learning
+🧠 Artificial Intelligence & Machine Learning
 
 📖 Research & Publications
 
@@ -83,73 +100,103 @@ Computer Science Engineer • Assistant Professor • Aspiring PhD Researcher
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,vb"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,vb&perline=6"/>
 
 ### AI / Data Science
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3"/>
 
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas"/>
+### Web Development
 
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy"/>
-
-### Full Stack
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,mongodb&perline=5"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=6"/>
 
 </div>
 
+---
 
-<h2 align="center">📚 Research</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-📄 Towards Fair and Accurate Grading: A Critical Review of Answer Sheet Evaluation Approaches
+| Project | Description |
+|---------|-------------|
+| 📝 AI Answer Sheet Evaluation | Multimodal answer sheet evaluator using LLMs, SBERT, NLP, OCR, and Explainable AI |
+| 📊 IRIS Asset Tracking System | Enterprise asset management platform with React, Node.js and PostgreSQL |
+| 🌐 Network Traffic Classification | Deep Learning & Kolmogorov-Arnold Networks (KAN) on CIC datasets |
+| 🤖 Enterprise RPA Solutions | Automation solutions developed during my internship at STMicroelectronics |
+| 🕹 Gravity Snake | Physics-based Snake game built with Pygame |
+| 🍽 CraveSwitch | AI-powered healthy food recommendation system |
 
-📄 Pest Detection in Complex Agricultural Environments: An Analysis of Methods and Techniques
+---
 
-*(Springer LNNS Proceedings)*
+<h2 align="center">📚 Publications</h2>
+
+📄 **Towards Fair and Accurate Grading: A Critical Review of Answer Sheet Evaluation Approaches**
+
+📄 **Pest Detection in Complex Agricultural Environments: An Analysis of Methods and Techniques**
+
+📖 Published in **Springer LNNS Conference Proceedings**
 
 ---
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Manasvi-Bakshi&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manasvi-Bakshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasvi-Bakshi&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasvi-Bakshi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasvi-Bakshi&theme=tokyonight"/>
+</p>
 
-</div>
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Manasvi-Bakshi&theme=tokyonight&hide_border=true"/>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manasvi-Bakshi&theme=tokyonight&margin-w=15&row=2&column=4"/>
-
-</div>
+</p>
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">📊 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manasvi-Bakshi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manasvi-Bakshi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
 <a href="https://github.com/Manasvi-Bakshi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/manasvi-bakshi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/manasvi-bakshi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:manasvi.bakshi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -158,12 +205,14 @@ Computer Science Engineer • Assistant Professor • Aspiring PhD Researcher
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"Engineer by training. Teacher by profession. Researcher by curiosity."*
 
 </div>
 
+---
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Manasvi-Bakshi&style=flat-square&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Manasvi-Bakshi&label=Profile%20Views&color=58A6FF&style=flat"/>
 
 </div>
