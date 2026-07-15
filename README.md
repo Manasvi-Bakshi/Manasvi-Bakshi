@@ -61,25 +61,7 @@ Artificial Intelligence • Machine Learning • Natural Language Processing •
 
 </p>
 
----
 
-<h2 align="center">⚡ Current Focus</h2>
-
-<div align="center">
-
-🧠 Artificial Intelligence & Machine Learning
-
-📖 Research & Publications
-
-💻 Full Stack Development
-
-🤖 Intelligent Automation
-
-🎓 Teaching Computer Science
-
-</div>
-
----
 
 <h2 align="center">🛠 Tech Stack</h2>
 
@@ -117,15 +99,6 @@ Artificial Intelligence • Machine Learning • Natural Language Processing •
 
 📖 Published in **Springer LNNS Conference Proceedings**
 
----
-
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manasvi-Bakshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasvi-Bakshi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
