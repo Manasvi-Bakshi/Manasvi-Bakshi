@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manasvi Bakshi</h1>
 
-<h3 align="center">
-Computer Science Engineer • Assistant Professor • Aspiring PhD Researcher
-</h3>
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -33,33 +29,8 @@ Computer Science Engineer • Assistant Professor • Aspiring PhD Researcher
 
 🎯 Working towards a fully-funded **PhD in Artificial Intelligence**.
 
-💬 Ask me about
-
-- Python
-- Java
-- C++
-- React
-- Node.js
-- PostgreSQL
-- Machine Learning
-- NLP
-- Computer Vision
-- Software Engineering
-
 📫 **Reach me:**  
 **manasvi.bakshi@gmail.com**
-
-
-
----
-
-<h2 align="center">🧠 Research Interests</h2>
-
-<p align="center">
-
-Artificial Intelligence • Machine Learning • Natural Language Processing • Explainable AI • Computer Vision • Software Engineering • Intelligent Automation
-
-</p>
 
 
 
@@ -88,16 +59,6 @@ Artificial Intelligence • Machine Learning • Natural Language Processing •
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=6"/>
 
 </div>
-
-
-
-<h2 align="center">📚 Publications</h2>
-
-📄 **Towards Fair and Accurate Grading: A Critical Review of Answer Sheet Evaluation Approaches**
-
-📄 **Pest Detection in Complex Agricultural Environments: An Analysis of Methods and Techniques**
-
-📖 Published in **Springer LNNS Conference Proceedings**
 
 
 </p>
